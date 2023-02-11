@@ -1,5 +1,5 @@
 :root {
-    --background-dark: #22d3ee;
+    --background-dark: #f0abfc;
     --black: #000;
   }
   
@@ -7,6 +7,8 @@
     background-color: var(--background-dark);
     color: var(--black);
     height: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
   }
   
   * {
