@@ -7,12 +7,10 @@
     background-color: var(--background-dark);
     color: var(--black);
     height: 100%;
-    margin: 0 auto;
   }
   
   * {
-    
-    font-family: 'Kalam', cursive;
+    font-family: "Lato", sans-serif;
   }
   
   .header {
@@ -105,10 +103,3 @@
     width: 40px;
     padding: 0.2rem;
   }
-  .container {
-    max-width: 1200px;
-    margin: 0 auto;
-  }
- 
-  
-  
