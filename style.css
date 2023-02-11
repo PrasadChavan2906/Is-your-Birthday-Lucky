@@ -1,5 +1,5 @@
 :root {
-    --background-dark: #f472b6;
+    --background-dark: #22d3ee;
     --black: #000;
   }
   
@@ -10,7 +10,8 @@
   }
   
   * {
-    font-family: "Lato", sans-serif;
+    
+    font-family: 'Kalam', cursive;
   }
   
   .header {
@@ -103,3 +104,10 @@
     width: 40px;
     padding: 0.2rem;
   }
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+ 
+  
+  
